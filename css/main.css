@@ -1,0 +1,43 @@
+body {
+	background-color: #1E90FF !important;
+    font-family: Calibri !important;
+    color: #FFFFFF;
+}
+
+.title {
+    background-color: #333333;
+    padding: 12px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: Calibri;
+}
+
+.content {
+    padding: 8px;
+}
+
+.rightCol {
+
+}
+
+.contentBox {
+    background-color: #FFFFFF;
+    min-height: 300px;
+    margin-top: 8px;
+    padding: 6px;
+}
+
+.infoBox {
+    background-color: #F5F5F5;
+    min-height: 150px;
+    margin-top: 8px;
+    padding: 6px;
+}
+
+a {
+    color: #00BFFF;
+}
+
+p {
+    text-align: justify;
+}
